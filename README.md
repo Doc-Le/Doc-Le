@@ -1,20 +1,19 @@
-# Leandro
-
-![banner](images/banner.jpeg)
-
-## About me
-
+[![MasterHead](https://giphy.com/gifs/hacker-hacking-binary-V4NSR1NG2p0KeJJyr5)]
+<h1 align="center">Hi 👋, I'm Leandro</h1>
+<h3 align="center">A passionate frontend developer </h3>
+<img align="right" alt="Coding" width="300" src="https://tenor.com/view/coffee-hot-coffee-morning-good-day-breakfast-gif-16809699">
 
 
----
+- 🔭 I’m currently working on **Buckoid Android App**
 
-### Stack
+- 🌱 I’m currently learning **React Native**
 
+- 📫 How to reach me **lleandro.arj@gmail.com**
 ---
 
 #### **Frontend**
 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> ![JSON](images/json.svg) 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 
 ---
 
